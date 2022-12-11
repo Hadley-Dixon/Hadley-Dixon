@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hadley-Dixon
 - 📕 I'm a Data Science Undergraduate at University of San Francisco
 - 👀 I’m interested in using data analytics in politics and the emerging field of technology ethics
-- 🌱 I code using Python & R
+- 🌱 I code in Python & R
 - 📫 How to reach me: hadley.dixon22@gmail.com
 
 <!---
