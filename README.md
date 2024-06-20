@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hadley Dixon.
-- 📕 I'm a Senior Data Science Undergraduate at University of San Francisco.
-- 👀 I’m interested in applying data science to understand political behavior.
+- 📕 I'm a graduate data science student at University of San Francisco.
 - 🌱 I code in Python, R, Java, and SQL.
 - 📫 How to reach me: hadley.dixon22@gmail.com
 
