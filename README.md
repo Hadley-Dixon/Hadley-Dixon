@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hadley Dixon.
-- 📕 I'm a graduate data science student at University of San Francisco.
-- 🌱 I code in Python, R, Java, and SQL.
+- 📊 I'm a Data Scientist focused on policy and research.
+- 📕 I earned a M.S. in Data Science and Artificial Intelligence from the University of San Francisco.
+- 🌱 I code in Python, SQL, R, and Java.
 - 📫 How to reach me: hadley.dixon22@gmail.com
 
 <!---
