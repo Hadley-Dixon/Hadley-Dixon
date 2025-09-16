@@ -4,6 +4,17 @@
 - 🌱 I code in Python, SQL, R, and Java.
 - 📫 How to reach me: hadley.dixon22@gmail.com
 
+
+
+
+
+
+
+
+
+
+
+
 <!---
 Hadley-Dixon/Hadley-Dixon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
